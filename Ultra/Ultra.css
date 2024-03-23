@@ -10,8 +10,8 @@
 .bannerImage__39c51 {
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
 }
 
 rect.pointerEvents__33f6a {
